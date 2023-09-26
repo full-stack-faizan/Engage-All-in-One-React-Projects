@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1b96daec.css",
+    "main.js": "./static/js/main.2d68cd88.js",
+    "static/media/scrolljs.PNG": "./static/media/scrolljs.ebe7aef227a41eda5229.PNG",
+    "static/media/backgroundplay.PNG": "./static/media/backgroundplay.b52a5f210e5686e634df.PNG",
+    "static/media/reactTowerApp.PNG": "./static/media/reactTowerApp.1d7f9121de7b5cc701e5.PNG",
+    "static/media/jsmenu.PNG": "./static/media/jsmenu.67335f5abde2f3c5538a.PNG",
+    "static/media/responsiveaboutpage.PNG": "./static/media/responsiveaboutpage.8665bc1ac58a5bbbffda.PNG",
+    "static/media/cocktailapp.PNG": "./static/media/cocktailapp.6c5bb4bd1419afd2aec3.PNG",
+    "static/media/colorCode.PNG": "./static/media/colorCode.e8575ea50f073a78e0f8.PNG",
+    "static/media/countdown.PNG": "./static/media/countdown.da7b04380bae66b6b5df.PNG",
+    "static/media/mobilecartapp.PNG": "./static/media/mobilecartapp.bdfd3a5b96f82b71b6bb.PNG",
+    "static/media/pharagraphreact.PNG": "./static/media/pharagraphreact.962950534ba3b0ba086b.PNG",
+    "static/media/jsfaqs.PNG": "./static/media/jsfaqs.fdd248568e695a2c36ba.PNG",
+    "static/media/employeeapp.PNG": "./static/media/employeeapp.f07c9855108cd4c335be.PNG",
+    "static/media/birthdayshowingapp.PNG": "./static/media/birthdayshowingapp.24b62ee673adb2ebbb12.PNG",
+    "static/media/reviewmodal.PNG": "./static/media/reviewmodal.b1ed9aaf5b39fbf62fce.PNG",
+    "static/media/reviewapp.PNG": "./static/media/reviewapp.fd8bac526f56837099a9.PNG",
+    "static/media/jspharagraph.PNG": "./static/media/jspharagraph.4b9cf2f3fe2e05b52daa.PNG",
+    "static/media/jsreview.PNG": "./static/media/jsreview.5f69188d441ef9006840.PNG",
+    "static/media/accodianapp.PNG": "./static/media/accodianapp.43a09ea98af6e048d251.PNG",
+    "static/media/ReactToDoListApp.PNG": "./static/media/ReactToDoListApp.52c914ec589b3d598066.PNG",
+    "static/media/jstodo.PNG": "./static/media/jstodo.387504cba8470cdeb028.PNG",
+    "static/media/colorflipper.PNG": "./static/media/colorflipper.ab4103a11764f5b166c4.PNG",
+    "static/media/jstogle.PNG": "./static/media/jstogle.0511d5d4c03b1fd117c2.PNG",
+    "index.html": "./index.html",
+    "main.1b96daec.css.map": "./static/css/main.1b96daec.css.map",
+    "main.2d68cd88.js.map": "./static/js/main.2d68cd88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b96daec.css",
+    "static/js/main.2d68cd88.js"
+  ]
+}
